@@ -12,7 +12,7 @@ Projeto feito durante a aula HTML e CSS: responsividade com mobile-first da form
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
 
-![](https://jefersonwebdev.github.io/portfoliohtml/img/portfolio_header.png#vitrinedev)
+![](https://jefersonwebdev.github.io/mobile-first/img/AluraBooksDesktop.png#vitrinedev)
 ## Detalhes do projeto
 
 ![](https://jefersonwebdev.github.io/portfoliohtml/img/portfolio_mockup.png#vitrinedev)
