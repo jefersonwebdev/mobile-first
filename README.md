@@ -15,7 +15,7 @@ Projeto feito durante a aula HTML e CSS: responsividade com mobile-first da form
 ![](https://jefersonwebdev.github.io/mobile-first/img/AluraBooksDesktop.png#vitrinedev)
 ## Detalhes do projeto
 
-![](https://jefersonwebdev.github.io/portfoliohtml/img/portfolio_mockup.png#vitrinedev)
+![](https://jefersonwebdev.github.io/mobile-first/img/MobileFirstResponsivo.png#vitrinedev)
 # Responsivo
 Se adapta ao tamanho da tela do dispositivo em que está sendo visualizado, como um celular, tablet ou desktop
 <!-- Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
