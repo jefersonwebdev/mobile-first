@@ -1,11 +1,11 @@
 # Mobile First
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito durante a aula HTML e CSS: responsividade com mobile-first da formação HTML e CSS da Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Mobile First**
-| :label: Tecnologias | HTML, CSS, plugin Swiper.js 
+| :label: Tecnologias | ![Descrição adicional opcional](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-swiper-6332F6?logo=swiper&logoColor=white&style=for-the-badge)
 | :rocket: URL         | https://jefersonwebdev.github.io/mobile-first/
 | :fire: Desafio     | https://jefersonwebdev.github.io/mobile-first/
 
